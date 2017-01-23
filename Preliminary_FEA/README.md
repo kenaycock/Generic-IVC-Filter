@@ -2,10 +2,10 @@
 
 *ABAQUS FEA simulation files*
 
-1. **...cae/jnl** ABAQUS/CAE file used to generate ABAQUS input
+1. **Input_Files/...inp** ABAQUS/Standard input files (includes mesh, material properties, boundary conditions, etc.)
 
-2. **Input_Files/...inp** ABAQUS/Standard input files (includes mesh, material properties, boundary conditions, etc.)
+2. **GIVCF_Rev1.STEP** 3D solid CAD model of the generic IVC filter (exported from SolidWorks)
 
-3. **...STEP** 3D solid CAD model of the generic IVC filter (exported from SolidWorks)
+3. **GIVCF_Rev1.cae/jnl** ABAQUS/CAE files used to generate ABAQUS input
 
-4. **...pdf/pptx** Summary of preliminary FEA simulations
+4. **...pdf/pptx** Brief documentation of preliminary FEA simulations
