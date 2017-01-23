@@ -1,6 +1,6 @@
 # FEA
 
-* ABAQUS FEA simulation files*
+*ABAQUS FEA simulation files*
 
 1. **...cae** ABAQUS/CAE file used to generate ABAQUS input
 
