@@ -4,4 +4,4 @@
 
 1. **...Rev0.sldprt** Starting design for generic IVC filter
 
-2. **...Rev1.sldprt** Generic IVC filter design following FEA analysis
+2. **...Rev1.sldprt** Generic IVC filter following design revision and preliminary FEA analysis
