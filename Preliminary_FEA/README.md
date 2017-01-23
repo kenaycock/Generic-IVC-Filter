@@ -1,4 +1,4 @@
-# FEA
+# Preliminary FEA
 
 *ABAQUS FEA simulation files*
 
