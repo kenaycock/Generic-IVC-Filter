@@ -14,3 +14,5 @@ Electronic resources for FDA Critical Path Project, "Generation and Review of Re
 
 CREDIT
 ------
+US FDA: Brent Craven, Jason Weaver, Kenneth Aycock
+Confluent Medical (formerly NDC): Tom Duerig, Craig Bonsignore, Karthikeyan Senthilnathan
