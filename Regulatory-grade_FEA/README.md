@@ -6,7 +6,7 @@ Todo:
 V&V:
 
 1. Verification
-  1. Code verification?
+  1. Code verification? (i.e., MMS?)
   2. Numerical verification (i.e., grid refinement study)
   3. Material model verification: in collaboration with Confluent Medical, 
     - obtain lot-specific nitinol material properties
