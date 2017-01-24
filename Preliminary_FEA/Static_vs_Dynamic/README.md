@@ -8,7 +8,7 @@
   - Distal end of filter strut: unconstrained, but there is a contact interaction between the strut surface and the plate that represents the vein wall.
     - Tangential friction is set relatively high (0.2); distal end of filter strut "rocks" along plate surface
   - **Files:**
-    1. ...static_BCs1.inp (diverges during step 3) 
+    1. ...static_BCs1.inp (diverges during step 3, 'valsalva1') 
     2. ...dynamic_BCs1.inp 
 
 
