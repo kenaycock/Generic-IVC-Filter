@@ -1,6 +1,7 @@
 # Static_vs_Dynamic
 
 *Demonstration of a case where the static solver diverges while the dynamic solver converges*
+
 **Boundary conditions during Valsalva:**
   - Hub: **translation constrained in 'y' and 'z', but not in the axially direction, 'x'.**
   - Plate: fixed displacement representing reduction in the minor diameter of the IVC during the Valsalva maneuver
@@ -10,6 +11,7 @@
   2. ...dynamic.inp 
 
 *If the boundary conditions are tweaked slightly, both the static and the dynamic simulations converge*
+
 Boundary conditions during Valsalva:
   - Hub: **translation constrained in 'x', 'y' and 'z' directions.**
   - Plate: fixed displacement representing reduction in the minor diameter of the IVC during the Valsalva maneuver
