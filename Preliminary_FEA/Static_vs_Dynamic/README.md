@@ -13,7 +13,7 @@
 
 
 <br><br>
-*If the boundary conditions are tweaked slightly, both the static and the dynamic simulations converge:*
+*If the boundary conditions are tweaked slightly, the static simulation converges:*
 
 **Boundary conditions during Valsalva:**
   - Hub: **translation constrained in 'x', 'y' and 'z' directions.**
@@ -21,5 +21,4 @@
   - Distal end of filter strut: unconstrained, but there is a contact interaction (including tangential friction) between the strut surface and the plate that represents the vein wall.
     - Tangential friction is set relatively low (0.02); distal end of filter strut slides along plate surface
   - **Files:**
-    1. ...static_BCs2.inp (diverges during step 3) 
-    2. ...dynamic_BCs2.inp 
+    1. ...static_BCs2.inp
