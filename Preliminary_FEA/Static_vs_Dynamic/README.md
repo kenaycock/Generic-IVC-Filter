@@ -1,6 +1,6 @@
 # Static_vs_Dynamic
 
-*Demonstration of a case where the static solver diverges while the dynamic solver converges*
+*Demonstration of a case where the static solver diverges while the dynamic solver converges:*
 
 **Boundary conditions during Valsalva:**
   - Hub: **translation constrained in 'y' and 'z', but not in the axial direction, 'x'.**
@@ -12,7 +12,7 @@
 
 
 <br><br>
-*If the boundary conditions are tweaked slightly, both the static and the dynamic simulations converge*
+*If the boundary conditions are tweaked slightly, both the static and the dynamic simulations converge:*
 
 **Boundary conditions during Valsalva:**
   - Hub: **translation constrained in 'x', 'y' and 'z' directions.**
