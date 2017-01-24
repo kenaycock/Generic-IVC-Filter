@@ -10,9 +10,11 @@
     1. ...static_BCs1.inp (diverges during step 3) 
     2. ...dynamic_BCs1.inp 
 
+
+<br><br>
 *If the boundary conditions are tweaked slightly, both the static and the dynamic simulations converge*
 
-Boundary conditions during Valsalva:
+**Boundary conditions during Valsalva:**
   - Hub: **translation constrained in 'x', 'y' and 'z' directions.**
   - Plate: fixed displacement representing reduction in the minor diameter of the IVC during the Valsalva maneuver
   - Distal end of filter strut: unconstrained, but there is a contact interaction (including tangential friction) between the strut surface and the plate that represents the vein wall.
