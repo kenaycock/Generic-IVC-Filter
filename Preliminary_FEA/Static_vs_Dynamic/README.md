@@ -3,7 +3,7 @@
 *Demonstration of a case where the static solver diverges while the dynamic solver converges*
 
 **Boundary conditions during Valsalva:**
-  - Hub: **translation constrained in 'y' and 'z', but not in the axially direction, 'x'.**
+  - Hub: **translation constrained in 'y' and 'z', but not in the axial direction, 'x'.**
   - Plate: fixed displacement representing reduction in the minor diameter of the IVC during the Valsalva maneuver
   - Distal end of filter strut: unconstrained, but there is a contact interaction (including tangential friction) between the strut surface and the plate that represents the vein wall.
 **Files:**
