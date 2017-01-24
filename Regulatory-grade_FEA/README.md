@@ -18,6 +18,7 @@ V&V:
   2. Other?
   
 Generic IVCF FEA:
+
 1. Sheathing (prestrain)
 2. Placement (contact area/length/forces)
 3. Valsalva (fatigue)
