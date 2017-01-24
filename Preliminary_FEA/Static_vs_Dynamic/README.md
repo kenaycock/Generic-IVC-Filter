@@ -1,4 +1,4 @@
-# Static_vs_Dynamic
+# Static vs Dynamic
 
 *Demonstration of a case where the static solver diverges while the dynamic solver converges:*
 
