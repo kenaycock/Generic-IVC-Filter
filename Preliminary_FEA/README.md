@@ -6,4 +6,4 @@
 
 2. **ABAQUS_CAE/**   ABAQUS/CAE files used to generate ABAQUS input
 
-3. **Generic_IVC_filter_project_Preliminary_FEA_Summary.pdf/pptx**   Brief documentation of preliminary FEA simulations
+3. **Generic_IVC_filter_project_Preliminary_FEA_Summary.pdf**   Brief documentation of preliminary FEA simulation results
