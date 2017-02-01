@@ -3,7 +3,7 @@
 **Files for initial generic IVC filter concept**
 
 # Correspondence:
-
+Wed, Aug 17, 2016 at 3:34 PM:
 >Hi All,
 
 >I just finished our first iteration (rev 0) of the generic IVC filter design. See the attached images. Here are the dimensions/characteristics of the initial design:
