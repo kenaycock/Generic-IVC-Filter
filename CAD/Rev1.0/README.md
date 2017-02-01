@@ -1,6 +1,7 @@
 # Rev1
 
 *Chosen design after performing preliminary FEA simulations*
+For details, refer to documentation in the "Preliminary_FEA" folder.
 
 
 # Correspondence
