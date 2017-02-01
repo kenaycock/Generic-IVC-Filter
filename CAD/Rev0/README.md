@@ -2,6 +2,11 @@
 
 **Files for initial generic IVC filter concept**
 
+This is the initial generic IVC filter design that was conceived at the beginning of the project. 
+Contributions: 
+* IGES files and images: B. Craven
+* SLDPRT SolidWorks file: C. Bonsignore
+
 # Correspondence:
 Wed, Aug 17, 2016 at 3:34 PM:
 >Hi All,
