@@ -5,7 +5,8 @@ Project summary:
 
 ====================
 
-# Resources
+RESOURCES
+---------
 
 1. **CAD/** SolidWorks 3D solid models and 2D drawings of the generic IVC filter
 
