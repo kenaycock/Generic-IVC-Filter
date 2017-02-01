@@ -1,7 +1,11 @@
 # Generic-IVC-Filter
+*FDA Critical Path Project, "Generation and Review of Regulatory-Grade Computational Evidence Using a Generic Inferior Vena Cava Filter"*
+
+Project summary:
+
 ====================
 
-Resources for FDA Critical Path Project, "Generation and Review of Regulatory-Grade Computational Evidence Using a Generic Inferior Vena Cava Filter"
+# Resources
 
 1. **CAD/** SolidWorks 3D solid models and 2D drawings of the generic IVC filter
 
