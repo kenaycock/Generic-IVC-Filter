@@ -1,6 +1,5 @@
 # Generic-IVC-Filter
 ====================
-*Files uploaded by Kenneth Aycock, ORISE Fellow, US FDA*
 
 Resources for FDA Critical Path Project, "Generation and Review of Regulatory-Grade Computational Evidence Using a Generic Inferior Vena Cava Filter"
 
