@@ -1,0 +1,1 @@
+# ABAQUS CAE files
