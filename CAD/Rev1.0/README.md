@@ -2,7 +2,7 @@
 
 *Chosen design after performing preliminary FEA simulations*
 
-For details, refer to documentation in the "Preliminary_FEA" folder.
+For analysis of the *Rev1* design, please refer to documentation in the "Preliminary_FEA" folder.
 
 
 # Correspondence
