@@ -1,5 +1,5 @@
 # Generic-IVC-Filter
-*FDA Critical Path Project, "Generation and Review of Regulatory-Grade Computational Evidence Using a Generic Inferior Vena Cava Filter"*
+*Design of a Generic IVC Filter*
 
 ====================
 
