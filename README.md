@@ -1,7 +1,7 @@
 # Generic-IVC-Filter
 *Design of a Generic IVC Filter*
 
-=====================
+======================
 
 RESOURCES
 ---------
