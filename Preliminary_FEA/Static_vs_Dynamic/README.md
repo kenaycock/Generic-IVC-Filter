@@ -24,5 +24,7 @@
     1. ...Static_BCs2.inp
     
 <br><br>
+CORRESPONDENCE
+--------------
 **Feedback from Karthik:**
   - Static solver will not converge when there is unconstrained rigid body motion. Adjust boundary conditions accordingly in the future, or use Dynamic/Implicit and ensure that kinetic energy is a small (\<\<1%) fraction of the total internal energy.
