@@ -23,4 +23,4 @@ NOTES
 * ^ Are these values appropriate for this size of tubing and the material processing that we plan? I believe we decided on electropolishing.
 
 # Correspondence
-()
+See https://github.com/kenaycock/Generic-IVC-Filter/issues/2
