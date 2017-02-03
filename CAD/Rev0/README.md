@@ -7,4 +7,5 @@ Contributions:
 * IGES files and images: B. Craven
 * SLDPRT SolidWorks file: C. Bonsignore
 
-# Correspondence:
+CORRESPONDENCE
+--------------
