@@ -22,5 +22,6 @@ NOTES
         * thickness: 0.059mm (from *inside* surface to remove draw lines)
 * ^ Are these values appropriate for this size of tubing and the material processing that we plan? I believe we decided on electropolishing.
 
-# Correspondence
+CORRESPONDENCE
+--------------
 See https://github.com/kenaycock/Generic-IVC-Filter/issues/2
