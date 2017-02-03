@@ -11,7 +11,7 @@ REVISIONS
     * same OD, new ID (1.3081mm here vs. 1.3335mm in Rev1; see https://shop.confluentmedical.com/collections/tube)
 - [x] Add a flat configuration for the laser toolpath
 - [x] Improve the drawing sheets
-- [x] Create 2D "dxf" file for the laser toolpath
+- [x] Create 2D "dxf" file for the laser toolpath (scale is 1:1)
 
 NOTES
 -----
