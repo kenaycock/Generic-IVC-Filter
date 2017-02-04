@@ -18,8 +18,8 @@ NOTES
 * The following values were assumed based on those given in the *Open Stent* manuscript:
     * Laser kerf: 0.025mm
     * Material removal during finishing
-        * width: 0.036mm (i.e., 0.018mm from each side)
-        * thickness: 0.059mm (from *inside* surface to remove draw lines)
+        * width: ~~0.036mm (i.e., 0.018mm from each side)~~ 0.025mm (i.e., 0.0125mm from each side)
+        * thickness: 0.059mm (from *inside* surface to remove draw lines) **TBD; measure finished prototypes**
 * ^ Are these values appropriate for this size of tubing and the material processing that we plan? I believe we decided on electropolishing.
 
 CORRESPONDENCE
