@@ -31,4 +31,4 @@ UMAT material constants:
 Plot of experimental data and ABAQUS UMAT with above constants:
 ![stress-strain_plot_37C_low_strain](https://github.com/kenaycock/Generic-IVC-Filter/blob/master/Material-Characterization/Material_Characterization_Data_Plots.png?raw=true)
 
-The nitinol UMAT verification was performed using a single C3D8R element (one integration point). The logarithmic strain and the Cauchy stress were extracted from the ODB simulations results file.
+The nitinol UMAT verification was performed using a single C3D8R element (one integration point). The logarithmic strain (LE22) and the Cauchy stress (S22) were extracted from the ODB simulations result file.
