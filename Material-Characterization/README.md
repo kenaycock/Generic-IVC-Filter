@@ -27,3 +27,8 @@ UMAT material constants:
 | ε<sup>P</sup><sub>2</sub> | 0.100 |
 | σ<sup>P</sup><sub>3</sub> | 1450 MPa | 
 | ε<sup>P</sup><sub>3</sub> | 0.120 |
+
+Plot of experimental data and ABAQUS UMAT with above constants:
+![stress-strain_plot_37C_low_strain](https://github.com/kenaycock/Generic-IVC-Filter/blob/master/Material-Characterization/Material_Characterization_Data_Plots.png?raw=true)
+
+The nitinol UMAT verification was performed using a single C3D8R element (one integration point). The logarithmic strain and the Cauchy stress were extracted from the ODB simulations results file.
