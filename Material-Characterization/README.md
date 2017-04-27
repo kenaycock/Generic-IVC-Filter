@@ -28,7 +28,7 @@ UMAT material constants:
 | σ<sup>P</sup><sub>3</sub> | 1450 MPa | 
 | ε<sup>P</sup><sub>3</sub> | 0.120 |
 
-<sup>*</sup> Scaling ratio of σ<sup>S</sup><sub>cL</sub> = 1.30 σ<sup>S</sup><sub>L</sub>; see 'Material characterization' issue.
+<sup>*</sup> Scaling ratio of σ<sup>S</sup><sub>cL</sub> = 1.30 σ<sup>S</sup><sub>L</sub>; see '[Material characterization](https://github.com/kenaycock/Generic-IVC-Filter/issues/5)' issue.
 
 Plot of experimental data and ABAQUS UMAT with above constants:
 ![stress-strain_plot_37C_low_strain](https://github.com/kenaycock/Generic-IVC-Filter/blob/master/Material-Characterization/Material_Characterization_Data_Plots.png?raw=true)
