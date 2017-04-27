@@ -27,6 +27,7 @@ UMAT material constants:
 | ε<sup>P</sup><sub>2</sub> | 0.100 |
 | σ<sup>P</sup><sub>3</sub> | 1450 MPa | 
 | ε<sup>P</sup><sub>3</sub> | 0.120 |
+
 <sup>*</sup> Scaling ratio of σ<sup>S</sup><sub>cL</sub> = 1.30 σ<sup>S</sup><sub>L</sub>; see 'Material characterization' issue.
 
 Plot of experimental data and ABAQUS UMAT with above constants:
