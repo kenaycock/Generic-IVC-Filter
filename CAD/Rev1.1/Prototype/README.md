@@ -1,3 +1,3 @@
 # Physical Prototype
 
-Photographs courtesy Karthik Senthilnathan
+Photographs & dimensions courtesy Karthik Senthilnathan
