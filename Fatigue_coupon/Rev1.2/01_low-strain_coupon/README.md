@@ -1,0 +1,1 @@
+# Low-strain fatigue coupon
