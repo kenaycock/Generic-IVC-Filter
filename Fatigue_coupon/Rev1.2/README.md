@@ -1,0 +1,1 @@
+# Finished fatigue coupons
