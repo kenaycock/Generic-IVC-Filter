@@ -1,4 +1,4 @@
-# Fatigue coupon drawings
+# Fatigue coupons
 
 Experimental plan: 
 
