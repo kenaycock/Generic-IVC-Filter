@@ -5,6 +5,7 @@
 
 ***Figure 1:** Predicted strain amplitude versus number of elements through the height (thickness) / width of the strut. Simulations are performed using C3D8I (incompatible) elements.*
 
+<br><br>
 
 <!--- ![Strain-amp-vs-displacement-low-strain-coupon](https://raw.githubusercontent.com/kenaycock/Generic-IVC-Filter/master/Fatigue_coupon/Rev1.2/01_low-strain_coupon/01b_low-strain_fatigue_coupon_strain_amp_vs_stroke_displacement.png) --->
 <img src="https://raw.githubusercontent.com/kenaycock/Generic-IVC-Filter/master/Fatigue_coupon/Rev1.2/01_low-strain_fatigue_coupon/01b_low-strain_fatigue_coupon_strain_amp_vs_stroke_displacement.png" width="500">
