@@ -1,1 +1,1 @@
-# high-strain fatigue coupon
+# High-strain fatigue coupon
