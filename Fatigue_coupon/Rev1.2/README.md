@@ -9,3 +9,7 @@ Experimental plan:
 <sup>\*</sup>*test to 10<sup>7</sup> cycles*<br>
 <sup>†</sup>*fatigue-to-fracture*<br>
 <sup>‡</sup>*worst-case physiological conditions, i.e., Valsalva in 28mm IVC*
+
+~10 samples per condition
+*20 low-strain coupons
+*30 high-strain coupons
